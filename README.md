@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/trieunguyenhuu/trieunguyenhuu/4d815736de05bfcefca1cb4b75a7f7bae356d611/nguyen_huu_trieu.svg" alt="Nguyen Huu Trieu" />
+  <img src="https://raw.githubusercontent.com/DuongBao2001/dqb.03/8bd89120e1e21673711efec4c31b8c7e8312f9b4/username.svg" alt="Duong Quoc Bao" />
 </h1>
 
 ## Hey! 👋
